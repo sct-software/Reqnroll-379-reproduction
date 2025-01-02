@@ -1,6 +1,6 @@
 ﻿namespace Reproduction.Tests;
 
-internal sealed class PdfProcessorTests
+internal sealed class UnitTest1
 {
     private string _someMemberVariable = "ARandomValue";
 
